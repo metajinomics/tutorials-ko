@@ -15,7 +15,7 @@ url:  'http://metajinomics.github.io/tutorials-ko'
 ########
 # more settings
 
-markdown: kramdown
+markdown: redcarpet
 
 sass:
   sass_dir: css
