@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: page
 title: About
 permalink: /novice/MobaxTerm/
 ---
