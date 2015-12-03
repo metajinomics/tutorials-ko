@@ -11,6 +11,10 @@ http://angus.readthedocs.org/en/2015/amazon/log-in-with-mobaxterm-win.html#insta
 ```
 http://statkclee.github.io/xwmooc-sc/novice/shell/
 ```
+그리고 아마존 서버에 접속하는 방법을 배웠다.
+```
+http://angus.readthedocs.org/en/2015/amazon/index.html
+```
 ### 두번째 날
 Jay는 mothur를 사용해 본 경험을 있지만 Qiime을 사용해 본적은 없어 Qiime 을 공부했다. 
 
