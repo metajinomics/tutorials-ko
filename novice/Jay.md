@@ -46,3 +46,14 @@ Python?
 
 ### 마지막 날
 ??
+
+
+#### NGS 페이지
+```
+http://angus.readthedocs.org/en/2015/index.html
+```
+
+#### EDAMAME 페이지
+```
+https://github.com/edamame-course/2015-tutorials/wiki/Schedule
+```
