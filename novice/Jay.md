@@ -39,6 +39,11 @@ https://github.com/edamame-course/2015-tutorials/blob/master/Jones_R_2015/mvExer
 http://khmer-protocols.readthedocs.org/en/v0.8.4/
 ```
 ## 네번째 날 
+Screen
+
+Question. Screen 에서 만들어 놓은 것이 보이지 않는다.
+Answer. sudo bash 를 먼저 실행해 root@ 사용자로 들어가야 한다. root가 만들어 놓은 screen은 하위 사용자가 볼 수 없다. 
+
 Transcriptome?
 
 ## 다섯번째 날 
