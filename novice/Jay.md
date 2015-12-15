@@ -57,7 +57,7 @@ https://github.com/jaejinlee83/practice
 
 ## 마지막 날
 갑자기 논문 리뷰가 겹쳐 마지막날을 많이 배우지 못했다. 더 배웠으면 하는 아쉬움이 남은 부분을 아래와 같다.
-Meta-transcriptomics, annotation 
+Meta-transcriptomics (mapping, abundance counting), annotation (retrive MG-RAST) 
 ```
 http://adina-howe.readthedocs.org/en/latest/mgrast/index.html
 ```
