@@ -39,18 +39,25 @@ https://github.com/edamame-course/2015-tutorials/blob/master/Jones_R_2015/mvExer
 http://khmer-protocols.readthedocs.org/en/v0.8.4/
 ```
 ## 네번째 날 
-Screen
+Screen을 배웠다. 
 
 Question. Screen 에서 만들어 놓은 것이 보이지 않는다.
 Answer. sudo bash 를 먼저 실행해 root@ 사용자로 들어가야 한다. root가 만들어 놓은 screen은 하위 사용자가 볼 수 없다. 
 
-Transcriptome?
+Blast를 로컬에서 돌리는 방법을 배웠다. 
+```
+https://github.com/edamame-course/2015-tutorials/blob/master/final/2015-06-25-Running_blast_from_command_line.md
+```
 
 ## 다섯번째 날 
-Python?
+Python을 공부하고 처음으로 짠 코드를 git에 업로드 하였다. 
 
 ## 마지막 날
-??
+갑자기 논문 리뷰가 겹쳐 마지막날을 많이 배우지 못했다. 더 배웠으면 하는 아쉬움이 남은 부분을 아래와 같다.
+Meta-transcriptomics, annotation 
+```
+http://adina-howe.readthedocs.org/en/latest/mgrast/index.html
+```
 
 
 #### NGS 페이지
