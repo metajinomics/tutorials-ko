@@ -50,7 +50,10 @@ https://github.com/edamame-course/2015-tutorials/blob/master/final/2015-06-25-Ru
 ```
 
 ## 다섯번째 날 
-Python을 공부하고 처음으로 짠 코드를 git에 업로드 하였다. 
+Python을 공부하고 처음으로 짠 코드를 git에 업로드 하였다. 파이선을 처음 접해보는 Jay는 Emacs 를 에디터로 이용하여 파일을 읽고, 시퀀스 이름중 중간에 있는 문자를 output 파일로 만드는데 성공하였다. 
+```
+https://github.com/jaejinlee83/practice
+```
 
 ## 마지막 날
 갑자기 논문 리뷰가 겹쳐 마지막날을 많이 배우지 못했다. 더 배웠으면 하는 아쉬움이 남은 부분을 아래와 같다.
