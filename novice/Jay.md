@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Jay 의 방문으로 본 메타지놈 배우기"
+---
+
 ## Jay 의 방문으로 본 메타지놈 배우기
 Jay 가 메타지놈 분석방법을 배우기 위해 연구실에 일주일간 방문하였다. Jay 는 Mothur를 이용해 16s amplicon을 분석해본 경험이 있지만 Linux 나 Shell 사용의 경험이 없었다. 
 
